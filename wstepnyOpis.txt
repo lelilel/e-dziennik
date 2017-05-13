@@ -1,0 +1,22 @@
+
+Dziennik elektroniczny, e-dziennik
+Program e-dziennik ma byæ odzwierciedleniem papierowych dzienników szkolnych,
+z wiêksz¹ iloœci¹ dodatkowych mo¿liwoœci. 
+Aplikacja bêdzie umo¿liwia³a:
+1. Logowanie siê:
+- ucznia,
+- nauczyciela.
+2. Identyfikacjê osoby zalogowanej
+3. Dostêp do listy uczniów danej klasy i nauczycieli
+4. Dostêp do przedmiotów
+5. Wprowadzanie ocen, list obecnoœci, uwag, prac domowych przez nauczycieli
+6. Zachowanie wprowadzonych zmian
+7. Obliczanie œredniej z ocen oraz frekwencji
+8. Komunikacjê nauczycieli z uczniami
+9. Dostêp do informacji o ocenach i frekwencji, 
+zadaniach domowych dla uczniów
+
+Aplikacja zostanie wykonana z wykorzystaniem technologi:
+- WPF,
+- baza danych.
+
